@@ -1,0 +1,8 @@
+pdf2docx
+docx2pdf
+pymupdf
+pillow
+python-docx
+openpyxl
+tkinterdnd2
+pyinstaller
